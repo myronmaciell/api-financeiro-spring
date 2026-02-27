@@ -45,8 +45,3 @@ API REST desenvolvido com framework Spring Boot com intuito de gerenciamento de 
 ---
 
 Projeto desenvolvido com finalidade de aprendizagem em Java buscando evolução no back-end.
-
----
-
-*OBSERVAÇÃO:
-Projeto desenvolvido com finalidade de aprendizagem no back-end, especificamente Java.
