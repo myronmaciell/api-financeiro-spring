@@ -4,12 +4,12 @@ API REST desenvolvido com framework Spring Boot com intuito de gerenciamento de 
 ## TECNOLOGIAS UTILIZADAS:
 
 - Java 17
-- Framework Spring Boot
-- Spring Data JPA
-- Hibernate
-- MySQL
-- Bean Validation
-- Maven
+- Spring Boot (framework)
+- Spring Data JPA (camada de abstração)
+- Hibernate (conectar classes a ao banco)
+- MySQL (banco de dados)
+- Bean Validation (validação de dados)
+- Maven (dependência do projeto)
 
 ## FUNCIONALIDADES:
 
@@ -31,11 +31,11 @@ API REST desenvolvido com framework Spring Boot com intuito de gerenciamento de 
 
 ## ESTRUTURA:
 
-- Controller
-- Service
-- Repository
-- Entity
-- Exception Handler
+- Controller (mapeia as requisições HTTP)
+- Service (lógica de negócio)
+- Repository (manipulação de dados do banco)
+- Entity (representação de tabelas do banco)
+- Exception Handler (manipulador de excessões)
 
 ## PRÉ-REQUISITOS PARA RODAR:
 
